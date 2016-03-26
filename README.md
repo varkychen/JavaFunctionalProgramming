@@ -1,2 +1,2 @@
 # JavaFunctionalProgramming
-Source code or Java Functional Programming
+Source code for Java Functional Programming
