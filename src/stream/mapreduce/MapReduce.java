@@ -1,7 +1,6 @@
 package stream.mapreduce;
 
 import java.util.Arrays;
-import java.util.stream.Stream;
 
 import value.objects.Rectangle;
 
